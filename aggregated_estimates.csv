@@ -1,0 +1,2 @@
+State,dem_estimate,rep_estimate,margin,ci_95,margin_low,margin_high,n_polls,polling_avg_margin,dem_win_prob,total_std,rep_win_prob
+TX,46.43,45.08,1.35,2.13,-1.98,4.68,10.0,1.35,78.7,1.697752089644078,21.299999999999997
